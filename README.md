@@ -1,4 +1,4 @@
-~~learning to code~~ using chatgpt since 2022
+~~learning to code since 2021~~ using chatgpt since 2022
 
 <!---
 danielpinho994/danielpinho994 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
